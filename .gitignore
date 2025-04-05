@@ -6,3 +6,6 @@ Data/
 
 # Ignore Image folder
 Images/
+
+# Ignore Individual Phase files
+Sequential Phase Files/
