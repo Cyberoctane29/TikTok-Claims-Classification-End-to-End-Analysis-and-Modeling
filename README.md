@@ -1,4 +1,4 @@
-# **TikTok Claims Classification Analysis**  
+# **TikTok Claims Classification: End-to-End Analysis and Modeling**  
 
 This project examines how TikTok video characteristics—including engagement metrics and author verification status—influence content classification as claims or opinions using machine learning in Python. The analysis explores relationships between video features (views, likes, shares), account status (verified/banned), and claim classification through predictive modeling. The goal is to automate content moderation by prioritizing high-risk claims for review. The project leverages Python libraries including pandas, scikit-learn, XGBoost, and Tableau for data analysis, statistical testing, and visualization.
 
