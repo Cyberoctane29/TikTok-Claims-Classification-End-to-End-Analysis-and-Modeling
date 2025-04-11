@@ -2,7 +2,7 @@
 
 This project explores how TikTok video features—such as engagement metrics and author verification status—influence the classification of content as claims or opinions using machine learning in Python. By analyzing relationships between views, likes, shares, and account status (e.g., verified or banned), I built predictive models to automate content moderation and prioritize high-risk claims for review. The project leverages Python libraries like pandas, scikit-learn, XGBoost, and Tableau for data analysis, statistical testing, and visualization.
 
-### **Project Navigation: Two-Part Structure**
+## **Project Navigation: Two-Part Structure**
 
 To ensure clarity, organization, and optimal performance on GitHub, I have divided the project into **two logical parts**:
 
