@@ -5,16 +5,15 @@ This project explores how TikTok video features—such as engagement metrics and
 ### **Project Navigation: Two-Part Structure**
 
 To ensure clarity, organization, and optimal performance on GitHub, I have divided the project into **two logical parts**:
-
-<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/TDJ7CMsF/Phases1-3.jpg" alt="Phase1_3" style="height:300px;margin-top:3rem;"> </div>
-
 - **[Part 1 – From Project Proposal to EDA](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part1_Project_Proposal_to_EDA.ipynb):** This notebook establishes the foundation of the project through stakeholder planning, exploratory data analysis (EDA), and early insights into TikTok engagement and content patterns.  
   [View Part 1 Notebook](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part1_Project_Proposal_to_EDA.ipynb)
-
-<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/y2Rb2L6/Phases4-6.jpg" alt="Phase4_6" style="height:300px;margin-top:3rem;"> </div>
+  
+<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/TDJ7CMsF/Phases1-3.jpg" alt="Phase1_3" style="height:300px;margin-top:3rem;"> </div>
 
 - **[Part 2 – From Statistical Testing to Machine Learning](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part2_Statistical_Analysis_to_Modeling.ipynb):** This notebook transitions from analysis to modeling. It includes hypothesis testing, multiple logistic regression, and machine learning models such as Random Forest and XGBoost for automated claims classification.  
   [View Part 2 Notebook](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part2_Statistical_Analysis_to_Modeling.ipynb)
+
+<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/y2Rb2L6/Phases4-6.jpg" alt="Phase4_6" style="height:300px;margin-top:3rem;"> </div>
 
 ## **Project Overview**  
 
@@ -99,7 +98,7 @@ This dataset serves as the foundation for analyzing patterns in TikTok content m
 
 ## **Project Highlights**  
 
-<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/FbFZDPhL/Phases.jpg" alt="Heat beating" style="height:300px;margin-top:3rem;"> </div>
+<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/FbFZDPhL/Phases.jpg" alt="AllPhases" style="height:300px;margin-top:3rem;"> </div>
 
 - Developed **end-to-end classification pipeline** from EDA to deployment-ready model  
 - Achieved **near-perfect recall (99.48%)** to minimize harmful content oversight  
