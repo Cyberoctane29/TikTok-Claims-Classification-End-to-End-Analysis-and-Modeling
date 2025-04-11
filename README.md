@@ -2,6 +2,20 @@
 
 This project explores how TikTok video features—such as engagement metrics and author verification status—influence the classification of content as claims or opinions using machine learning in Python. By analyzing relationships between views, likes, shares, and account status (e.g., verified or banned), I built predictive models to automate content moderation and prioritize high-risk claims for review. The project leverages Python libraries like pandas, scikit-learn, XGBoost, and Tableau for data analysis, statistical testing, and visualization.
 
+### **Project Navigation: Two-Part Structure**
+
+To ensure clarity, organization, and optimal performance on GitHub, I have divided the project into **two logical parts**:
+
+- **[Part 1 – From Project Proposal to EDA](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part1_Project_Proposal_to_EDA.ipynb):** This notebook establishes the foundation of the project through stakeholder planning, exploratory data analysis (EDA), and early insights into TikTok engagement and content patterns.
+
+https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part1_Project_Proposal_to_EDA.ipynb
+
+- **[Part 2 – From Statistical Testing to Machine Learning](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part2_Statistical_Analysis_to_Modeling.ipynb):** This notebook transitions from analysis to modeling. It includes hypothesis testing, multiple logistic regression, and machine learning models such as Random Forest and XGBoost for automated claims classification.
+
+https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part2_Statistical_Analysis_to_Modeling.ipynb
+
+Each part is structured around key phases, making it easier to follow the data journey from exploration to model deployment. You can explore both parts in sequence using the links provided above, or jump directly to a specific phase of interest.
+
 ## **Project Overview**  
 
 The **TikTok Claims Classification** project aims to:  
