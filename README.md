@@ -10,7 +10,7 @@ To ensure clarity, organization, and optimal performance on GitHub, I have divid
 
   [View Part 1 Notebook](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part1_Project_Proposal_to_EDA.ipynb)
 <br><br>
-<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/TDJ7CMsF/Phases1-3.jpg" alt="Phase1_3" style="height:300px;margin-top:3rem;"> </div>
+<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/TDJ7CMsF/Phases1-3.jpg" alt="Phase1_3"> </div>
 <br><br>
 
 - **[Part 2 – From Statistical Testing to Machine Learning](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part2_Statistical_Analysis_to_Modeling.ipynb):** This notebook transitions from analysis to modeling. It includes hypothesis testing, multiple logistic regression, and machine learning models such as Random Forest and XGBoost for automated claims classification.  
