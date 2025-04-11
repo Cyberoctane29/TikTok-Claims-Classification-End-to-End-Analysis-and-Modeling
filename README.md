@@ -18,7 +18,7 @@ To ensure clarity, organization, and optimal performance on GitHub, I have divid
   [View Part 2 Notebook](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part2_Statistical_Analysis_to_Modeling.ipynb)
 <br><br>
 <div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/y2Rb2L6/Phases4-6.jpg" alt="Phase4_6" style="height:300px;margin-top:3rem;"> </div>
-
+<br><br>
 For a **complete and consolidated view of both parts** in a single notebook, check out the [Kaggle version of this project](https://www.kaggle.com/code/saswatsethda/tiktok-claims-classification-analysis-modeling).
 
  [View Kaggle Notebook](https://www.kaggle.com/code/saswatsethda/tiktok-claims-classification-analysis-modeling)
