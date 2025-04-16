@@ -2,6 +2,28 @@
 
 This project explores how TikTok video features—such as engagement metrics and author verification status—influence the classification of content as claims or opinions using machine learning in Python. By analyzing relationships between views, likes, shares, and account status (e.g., verified or banned), I built predictive models to automate content moderation and prioritize high-risk claims for review. The project leverages Python libraries like pandas, scikit-learn, XGBoost, and Tableau for data analysis, statistical testing, and visualization.
 
+## **Project Navigation: Two-Part Structure**
+
+To ensure clarity, organization, and optimal performance on GitHub, I have divided the project into **two logical parts**:
+
+- **[Part 1 – From Project Proposal to EDA](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part1_Project_Proposal_to_EDA.ipynb):** This notebook establishes the foundation of the project through stakeholder planning, exploratory data analysis (EDA), and early insights into TikTok engagement and content patterns.
+
+  [View Part 1 Notebook](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part1_Project_Proposal_to_EDA.ipynb)
+<br><br>
+<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/TDJ7CMsF/Phases1-3.jpg" alt="Phase1_3"> </div>
+<br><br>
+
+- **[Part 2 – From Statistical Testing to Machine Learning](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part2_Statistical_Analysis_to_Modeling.ipynb):** This notebook transitions from analysis to modeling. It includes hypothesis testing, multiple logistic regression, and machine learning models such as Random Forest and XGBoost for automated claims classification.  
+
+  [View Part 2 Notebook](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok_Claims_Classification_Part2_Statistical_Analysis_to_Modeling.ipynb)
+<br><br>
+<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/y2Rb2L6/Phases4-6.jpg" alt="Phase4_6"> </div>
+<br><br>
+
+For a **complete and consolidated view of both parts** in a single notebook, check out the [Kaggle version of this project](https://www.kaggle.com/code/saswatsethda/tiktok-claims-classification-analysis-modeling).
+
+ [View Kaggle Notebook](https://www.kaggle.com/code/saswatsethda/tiktok-claims-classification-analysis-modeling)
+
 ## **Project Overview**  
 
 The **TikTok Claims Classification** project aims to:  
@@ -84,6 +106,8 @@ This dataset serves as the foundation for analyzing patterns in TikTok content m
 4. **Text length** (15%)  
 
 ## **Project Highlights**  
+<div style="width:100%;text-align: center;"> <img align=middle src="https://i.ibb.co/FbFZDPhL/Phases.jpg" alt="AllPhases"> </div>
+<br><br>
 
 - Developed **end-to-end classification pipeline** from EDA to deployment-ready model  
 - Achieved **near-perfect recall (99.48%)** to minimize harmful content oversight  
