@@ -25,6 +25,9 @@ For a complete and consolidated view of both parts in a single notebook, check o
  [View Kaggle Notebook](https://www.kaggle.com/code/saswatsethda/tiktok-claims-classification-analysis-modeling)
 
 [View Github Notebook](https://github.com/Cyberoctane29/TikTok-Claims-Classification-End-to-End-Analysis-and-Modeling/blob/main/TikTok%20_Claims_Classification_End_to_End_Analysis_and_Modeling.ipynb)
+<br><br>
+<div style="width:100%;text-align: center;"> <img align=middle src="[https://i.ibb.co/y2Rb2L6/Phases4-6.jpg](https://i.ibb.co/FbFZDPhL/Phases.jpg)" alt="Phase1_6"> </div>
+<br><br>
 
 ## **Project Overview**  
 
